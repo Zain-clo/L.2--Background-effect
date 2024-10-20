@@ -1,0 +1,8 @@
+h2{
+    
+    background: linear-gradient( darkred,white,darkred,white,darkred,white,black);
+}
+p{ background-color: darkred; color: aliceblue;}
+html{ 
+    background-image: url(images.jfif); background-size: cover;
+}
