@@ -1,0 +1,8 @@
+html{ background-color: aquamarine;
+}
+h1{background-color: orangered; font-family: cursive;}
+div{
+    background: linear-gradient( red,orange,yellow,green,blue,purple,pink
+);
+height: 200px;font-size: xx-large;color: white;
+}
